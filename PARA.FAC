@@ -1,0 +1,68 @@
+Default Truncations:
+0.001	0.999
+
+7 Distributions:
+Uniform
+TDWI
+
+1	1
+189	231	1
+
+Uniform
+LAIEM
+
+1	1
+0.1228	0.15	1
+
+Uniform
+RGRLAI
+
+1	1
+0.00735	0.15	1
+
+Uniform
+SLATB0
+
+1	1
+0.19	0.23	1
+
+Uniform
+SALTB5
+
+1	1
+0.19	0.23	1
+
+Uniform
+SLATB20
+
+1	1
+0.19	0.23	1
+
+Uniform
+SPAN
+
+1	1
+28.17	34	1
+
+Correlation information
+0 -1 0 
+0 -1 0 
+0 -1 0 
+0 -1 0 
+0 -1 0 
+0 -1 0 
+0 -1 0 
+Correlation Matrix:
+1	0	0	0	0	0	0	
+0	1	0	0	0	0	0	
+0	0	1	0	0	0	0	
+0	0	0	1	0	0	0	
+0	0	0	0	1	0	0	
+0	0	0	0	0	1	0	
+0	0	0	0	0	0	1	
+Stein Information:
+
+0
+0
+0
+2
