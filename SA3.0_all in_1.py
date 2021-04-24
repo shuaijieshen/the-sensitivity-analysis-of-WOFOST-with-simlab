@@ -5,7 +5,7 @@ from pcse.base import ParameterProvider
 from pcse.fileinput import ExcelWeatherDataProvider
 import datetime
 import os
-import progressbar
+import progressbar  # 需要按装包 pip install progressbar2
 import pandas as pd
 
 
