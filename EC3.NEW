@@ -39,7 +39,6 @@ CONTAB   =   0.000,   1.408,    ! 10-log hydraulic conductivity
              4.000,  -4.276,
              4.204,  -4.678
 
-
 K0       =  25.586  ! hydraulic conductivity of saturated soil [cm day-1]
 SOPE     =   1.47   ! maximum percolation rate root zone[cm day-1]
 KSUB     =   1.47   ! maximum percolation rate subsoil [cm day-1]
